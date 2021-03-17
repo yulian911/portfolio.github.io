@@ -260,6 +260,7 @@ section .title::after{
   
   
 }
+/* animation home/ */
 .item1
 {
     width: 40%;
@@ -347,6 +348,8 @@ section .title::after{
 {
     color: crimson;
 }
+
+/* shekaes animation */
 @keyframes shakes
 {
     0%{transform: translateY(0);}
@@ -378,7 +381,7 @@ section .title::after{
 color: white;
 font-size: 25px;
 }
-/* sekcja o mnie  */
+/* section about me  */
 .about
 {
     height: 100vh;
@@ -471,7 +474,7 @@ font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-/* skils kontainer */
+/* skils container */
 #Vector_23 
 {
     
