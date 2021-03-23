@@ -635,6 +635,7 @@ font-size: 25px;
 {
     background-color: white;
     color: black;
+    height: 90vh;
 }
 .contact .title::after{
     content: "get in touch";
